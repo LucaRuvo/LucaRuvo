@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! 👋 I'm Luca 👨‍🔬🧪🤖
 
-<!--
-**LucaRuvo/LucaRuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 What I’m learning
 
-Here are some ideas to get you started:
+I’m diving into transformers 🧠 to see if they’re the superheroes of drug discovery everyone says they are! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 What I’m looking to collaborate on
+
+If you’re a machine learning enthusiast with a fascination for biology, hit me up!
+
+💬 Ask me about...
+
+Why I think biology and AI are a match made in science heaven 💑
+
+My experiments and why they sometimes feel like an epic game of cell roulette 🥼🧫
+
+😄 Pronouns
+
+He/Him – but “that guy who keeps running drug assays” also works.
+
+⚡ Fun fact
+
+I got into biology because I’m a bit obsessed with blurring the lines between humans and machines!
